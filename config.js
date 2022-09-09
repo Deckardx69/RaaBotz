@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['62895604670507', 'Claraa', true], 
-['62895604670507', 'TOLONG JGN SPAM', true] 
+['+51994299226', 'Claraa', true], 
+['+51994299226', 'TOLONG JGN SPAM', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -35,9 +35,9 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'https://youtu.be/RlhkqeUDZrA'
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝐂𝐥𝐚𝐫𝐚𝐚'
-global.linkgc = 'https://chat.whatsapp.com/Gapunya'
-global.linkig = 'https://www.instagram.com/inizenscuy'
+global.WM = 'ᴅᴇᴄᴋᴀʀᴅ  ✓'
+global.linkgc = 'https://chat.whatsapp.com/E1SdpsNdkS19Ica9pcz6Yt'
+global.linkig = 'https://www.instagram.com/Deckard_1012'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg'
 global.titlink = 'Folllow me on Instagram'
@@ -51,8 +51,8 @@ global.dtu = '🌏 GROUP OFFICIAL'
 global.urlnya = global.linkgc
 
 //============= callButtons ============//
-global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.dtc = 'ᴅᴇᴄᴋᴀʀᴅ  ✓'
+global.phn = '+51 994 299 226'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
